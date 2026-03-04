@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f4d04eff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Figtree", sans-serif;
+}
+
+
+.osnova1 {
+    border: 1px solid black;
+    background-color: white;
+    width: 385px;
+    height: 525px;
+    border-radius: 20px;
+    box-shadow: 9px 9px;
+}
+
+.basty-suret{
+    width: 340px;
+    height: 210px;
+    margin: 20px 21px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.button1 {
+    background-color: #f4d04eff;
+    font-weight: 900;
+    border: 1px solid white;
+    width: 95px;
+    height: 32px;
+    box-sizing: border-box;
+    padding: 4px 5px;
+    margin: 0 21px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.soz1 {
+    margin: 12px 21px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.soz2 {
+    margin: 14px 20px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.soz3{
+    margin: 14px 21px;
+    color: #6b6b6bff;
+}
+
+.ava {
+    width: 37px;
+    margin: 16px 21px 10px;
+    float: left;
+}
+
+.aty {
+    margin: 40px;
+    position: relative;
+    left: -11px;
+    font-size: 14px;
+    font-weight: 800;
+}
